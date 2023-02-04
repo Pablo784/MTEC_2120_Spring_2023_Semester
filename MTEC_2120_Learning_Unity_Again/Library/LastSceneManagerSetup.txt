@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/bouncing_a_ball_unity.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
